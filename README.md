@@ -98,7 +98,7 @@ iOS 版 Clash 叫做 Stash ，同样是一款付费软件，官方售价 2.99美
 
 ### 电脑翻墙客户端
 
-不管是Windows还是macOS系统，最流行的都是 Clash，只是不同平台的Clash由不同开发者提供，所以名字也不太一样，同样使用机场的订阅链接导入即可使用。Windows 系统上，翻墙者使用 Clash for Windows，在macOS系统上，翻墙者最喜欢使用的是 ClashX。对于开发者可购买付费的 Surge for Mac，功能相比 ClashX 更加强大。
+不管是Windows还是macOS系统，最流行的都是 Clash，只是不同平台的Clash由不同开发者提供，所以名字也不太一样，同样使用机场的订阅链接导入即可使用。Windows 系统上，翻墙者使用 Clash for Windows，在macOS系统上，翻墙者最喜欢使用的是 ClashX，对于开发者可购买付费的 Surge for Mac，功能相比 ClashX 更加强大。
 
 -----
 
